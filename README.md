@@ -1,4 +1,4 @@
-I2C Bridge on CRT TV
+I2C Bridge CRT TV with Arduino
 
 
 
